@@ -29,7 +29,7 @@ It allows users to **add, edit, and delete tasks**, with **localStorage persiste
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/<your-username>/todo-app-react.git
+git clone https://github.com/shadab-jmi/todo-app-react.git
 cd todo-app-react
 ```
 
